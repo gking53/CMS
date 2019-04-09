@@ -1,0 +1,3 @@
+CMSGUI.ui|"G:\My Code\year 2\CMSGUI_Remake\CMSGUI_Remake\CMSGUI.ui" -o ".\GeneratedFiles\ui_CMSGUI.h"
+CMSGUI.h|"G:\My Code\year 2\CMSGUI_Remake\CMSGUI_Remake\CMSGUI.h" -o ".\GeneratedFiles\Debug\moc_CMSGUI.cpp" "-I.\GeneratedFiles" "-I." "-IC:\Qt\5.11.2\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-IC:\Qt\5.11.2\msvc2017_64\include\QtGui" "-IC:\Qt\5.11.2\msvc2017_64\include\QtANGLE" "-IC:\Qt\5.11.2\msvc2017_64\include\QtWidgets" "-IC:\Qt\5.11.2\msvc2017_64\include\QtCore" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_GUI_LIB -DQT_WIDGETS_LIB -DQT_CORE_LIB
+CMSGUI.qrc|"G:\My Code\year 2\semester 3\CMSGUI_Remake\CMSGUI_Remake\CMSGUI.qrc" -o ".\GeneratedFiles\qrc_CMSGUI.cpp" --name CMSGUI
